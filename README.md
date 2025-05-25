@@ -23,7 +23,3 @@ This is a lightweight and responsive web app that displays the current time and 
 2. View the real-time clock at the top.
 3. Use the **Start**, **Stop**, and **Reset** buttons to control the stopwatch.
 4. Use the **Toggle Mode** button to switch between light and dark themes.
-
-## 📄 License
-
-This project is licensed under the [MIT License](./LICENSE).
